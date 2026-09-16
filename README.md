@@ -1,10 +1,7 @@
-```markdown
 <div align="center">
 
-  <!-- Animated banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6B40DC&height=200&section=header&text=Hey,%20I'm%20Sreecharan!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-  <!-- Typing animation -->
   <a href="https://readme-typing-svg.demolab.com">
     <img src="[REDACTED: suspicious URL to readme-typing-svg.demolab.com]);🏆+2x+Hackathon+Winner;🤝+Always+open+to+collaborate!" alt="Typing SVG" />
   </a>
@@ -109,13 +106,11 @@
 
 </div>
 
-```text
-📍  Platform Engineering Intern @ Data Destination, San Francisco
-🎓  UC Davis, B.S. Computer Science — Class of 2027
-🔭  Shipping ECS infra, Jenkins pipelines, Terraform modules, and Keycloak auth
-🌐  Side project: internjobs.io — always iterating
-📚  Deep-diving: distributed systems, infrastructure design, cloud security
-```
+    📍  Platform Engineering Intern @ Data Destination, San Francisco
+    🎓  UC Davis, B.S. Computer Science — Class of 2027
+    🔭  Shipping ECS infra, Jenkins pipelines, Terraform modules, and Keycloak auth
+    🌐  Side project: internjobs.io — always iterating
+    📚  Deep-diving: distributed systems, infrastructure design, cloud security
 
 ---
 
@@ -127,7 +122,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">🏀</td>
+    <td align="center" width="60">🏀</td>
     <td><strong>Basketball</strong> — on the court whenever possible</td>
   </tr>
   <tr>
@@ -161,4 +156,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B40DC,100:2F81F7&height=120&section=footer" />
 
 </div>
-```
