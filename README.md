@@ -17,10 +17,14 @@ When I'm not at the keyboard I'm on the basketball court, in the gym, or hunting
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrygsw&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
 
 **What I work with**
-Languages Python · Go · TypeScript · Java · C/C++ Frontend React · Next.js · Node.js · FastAPI Cloud AWS (ECS · EKS · RDS · Lambda · Bedrock) DevOps Docker · Terraform · Jenkins · Kubernetes · GitHub Actions Data PostgreSQL · DynamoDB · Snowflake · pgvector
 
-code
-
+```
+Languages      Python · Go · TypeScript · Java · C/C++
+Frontend       React · Next.js · Node.js · FastAPI
+Cloud          AWS (ECS · EKS · RDS · Lambda · Bedrock)
+DevOps         Docker · Terraform · Jenkins · Kubernetes · GitHub Actions
+Data           PostgreSQL · DynamoDB · Snowflake · pgvector
+```
 
 
 <br clear="right"/>
