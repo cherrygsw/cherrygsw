@@ -38,8 +38,14 @@ RAG system on AWS Bedrock + Kendra surfacing decades of Fortune 500 R&D document
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cherrygsw&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrygsw&layout=compact&hide_border=true&theme=default)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrygsw&show_icons=true&hide_border=true&count_private=true&theme=default&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrygsw&layout=compact&hide_border=true&theme=default&langs_count=8" height="170" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=cherrygsw&theme=default&hide_border=true" height="170" />
+</p>
 
 ---
 
